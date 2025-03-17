@@ -4,13 +4,16 @@
 I built this SOC Automation Lab to develop and test automated security workflows that enhance threat detection, log analysis, and incident response. Using SIEM, SOAR, and custom scripts, I aim to reduce manual workload, improve response times, and minimize false positives. This project focuses on real-world SOC challenges, optimizing processes to strengthen security operations.
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
-
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+- SIEM Configuration & Tuning – Optimizing alerts, log ingestion, and correlation rules
+- SOAR Automation – Implementing automated incident response playbooks
+- Threat Intelligence Integration – Enriching alerts with external threat feeds
+- Log Analysis & Correlation – Identifying patterns across multiple data sources
+- Automated Alert Triage – Reducing false positives and prioritizing real threats
+- Incident Response Automation – Enhancing remediation with scripted workflows
+- Threat Hunting – Leveraging automation for anomaly detection and IOC analysis
+- Scripting (Python, PowerShell, Bash) – Automating security tasks and log parsing
+- API Integration – Connecting security tools for data exchange and workflow automation
+- Reporting & Metrics – Automating SOC performance tracking and threat trends analysis
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
