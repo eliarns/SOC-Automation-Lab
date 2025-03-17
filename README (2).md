@@ -1,7 +1,6 @@
 # SOC Automation Lab
 
 ## Objective
-
 I built this SOC Automation Lab to develop and test automated security workflows that enhance threat detection, log analysis, and incident response. Using SIEM, SOAR, and custom scripts, I aim to reduce manual workload, improve response times, and minimize false positives. This project focuses on real-world SOC challenges, optimizing processes to strengthen security operations.
 
 ### Skills Learned
