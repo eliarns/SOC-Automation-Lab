@@ -16,11 +16,13 @@ I built this SOC Automation Lab to develop and test automated security workflows
 - Reporting & Metrics – Automating SOC performance tracking and threat trends analysis
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- SIEM – Wazuh (log collection, analysis, and threat detection)
+- SOAR & Case Management – TheHive (incident response and investigation workflows)
+- Cloud Infrastructure – DigitalOcean (hosting and managing lab environments)
+- Threat Intelligence – MISP (integrating threat feeds for enriched detection)
+- Scripting & Automation – Python, Bash (automating security tasks and log parsing)
+- Log Management – Wazuh (monitoring system logs and security events)
+- API Integration – Connecting Wazuh, TheHive, and threat intelligence sources for automation
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
