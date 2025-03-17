@@ -1,9 +1,8 @@
-# PROJECTNAME
+# SOC Automation Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+I built this SOC Automation Lab to develop and test automated security workflows that enhance threat detection, log analysis, and incident response. Using SIEM, SOAR, and custom scripts, I aim to reduce manual workload, improve response times, and minimize false positives. This project focuses on real-world SOC challenges, optimizing processes to strengthen security operations.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
