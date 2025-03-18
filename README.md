@@ -41,7 +41,7 @@ I built this SOC Automation Lab to develop and test automated security workflows
 *Ref 5: TheHive is successfully installed and running on DigitalOcean since Mar 15th 2025 @ 16:01 UTC, with Elasticsearch and Cassandra services also active*
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20configs%20screenshot.png?raw=true)
-*Ref 6: Wazuh is successfully running on DigitalOcean since Mar 17th @ 21:56 UTC, with wazuh-manager.service active and essential components like wazuh-db, wazuh-analysisd, wazuh-remoted, wazuh-logcollector, and wazuh-modulesd initialized*
+*Ref 6: Wazuh is successfully running on DigitalOcean since Mar 17th 2025 @ 21:56 UTC, with wazuh-manager.service active and essential components like wazuh-db, wazuh-analysisd, wazuh-remoted, wazuh-logcollector, and wazuh-modulesd initialized*
 
 ![Image alt](https://github.com/user-attachments/assets/6694a94b-fee9-4550-a542-b3cd7df9a024)
 *Ref 7: I configured OSSEC to analyze Sysmon logs, enhancing Windows 10 telemetry for detecting threats like Mimikatz. This enables Wazuh to alert on suspicious activity using detailed system event tracking*
