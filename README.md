@@ -19,7 +19,7 @@ I built this SOC Automation Lab to develop and test automated security workflows
 - SIEM – Wazuh (log collection, analysis, and threat detection)
 - SOAR & Case Management – TheHive (incident response and investigation workflows)
 - Cloud Infrastructure – DigitalOcean (hosting and managing lab environments)
-- Threat Intelligence – MISP (integrating threat feeds for enriched detection)
+- Threat Intelligence – VirusTotal (integrating threat feeds for enriched detection)
 - Scripting & Automation – Python, Bash (automating security tasks and log parsing)
 - Log Management – Wazuh (monitoring system logs and security events)
 - API Integration – Connecting Wazuh, TheHive, and threat intelligence sources for automation
