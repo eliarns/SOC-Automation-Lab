@@ -32,6 +32,7 @@ I built this SOC Automation Lab to develop and test automated security workflows
 *Ref 2: Sysmon successfully installed and running as a service, with its executables and configuration files in place*
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20dashboard%20screenshot.png?raw=true)
-*Ref 3:Wazuh successfully installated with a fully operational security events dashboard, actively monitoring and analyzing alerts* 
+*Ref 3: Wazuh successfully installated with a fully operational security events dashboard, actively monitoring and analyzing alerts* 
 
-![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/firewall%20digital%20ocean%20config.png?raw=true)
+*Ref 4: Firewall rules on DigitalOcean configured for Wazuh and TheHive, allowing inbound traffic from a specific IP and enabling necessary outbound communication*
