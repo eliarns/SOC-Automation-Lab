@@ -70,10 +70,12 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/virustotal%20success.png?raw=true)
 *Ref 15: VirusTotal enriched the detected hash successfully, identifying it as Mimikatz with 65/73 detections. This was confirmed in Shuffle’s VirusTotal response implemented within my created workflow and on VirusTotal’s website*
 
-![Image alt](
-*Ref 16:  
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/shuffle%20workflow%203.png?raw=true)
+*Ref 16: I integrated TheHive into the workflow to generate alerts from Wazuh detections, enhancing threat intelligence and incident response*  
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/json%20troubleshoot.png?raw=true)
 *Ref 17: Manually configured JSON for TheHive to trigger Mimikatz alerts. Mapped execution variables, fixed sourceRef and date format errors, and ensured MITRE ATT&CK tagging. Verified output for seamless Wazuh integration*
+
+![Image alt](
 
 
