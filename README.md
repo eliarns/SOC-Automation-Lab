@@ -36,3 +36,6 @@ I built this SOC Automation Lab to develop and test automated security workflows
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/firewall%20digital%20ocean%20config.png?raw=true)
 *Ref 4: Firewall rules on DigitalOcean configured for Wazuh and TheHive, allowing inbound traffic from a specific IP and enabling necessary outbound communication*
+
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/thehive%20config%20services%20screensht.png?raw=true)
+*Ref 5: TheHive is successfully installed and running on DigitalOcean since Mar 15th 2025 @ 16:01 UTC, with Elasticsearch and Cassandra services also active*
