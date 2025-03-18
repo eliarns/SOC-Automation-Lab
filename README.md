@@ -52,4 +52,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/mimikatz%20detection.png?raw=true)
 *Ref 9: This shows Wazuh is successfully detecting Mimikatz, showing an alert with rule ID 100002, severity 15, and the description "Mimikatz Usage Detected." Wazuh identifies Mimikatz usage based on behavioral patterns rather than just the file name, ensuring detection even if the executable is renamed*
 
-![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20filebeat%20and%20archives.png?raw=true)
+*Ref 10: Wazuh is configured in Filebeat to archive and alert on all events, as shown in the terminal with enabled modules (alerts, archives) and in the Wazuh dashboard displaying various security logs* 
