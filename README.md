@@ -54,3 +54,6 @@ I built this SOC Automation Lab to develop and test automated security workflows
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20filebeat%20and%20archives.png?raw=true)
 *Ref 10: Wazuh is configured in Filebeat to archive and alert on all events, as shown in the terminal with enabled modules (alerts, archives) and in the Wazuh dashboard displaying various security logs* 
+
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/shuffle%20workflow%201.png?raw=true)
+*Ref 11: First part of my Shuffle workflow integrating Wazuh, where Wazuh alerts are received via a webhook for automated processing*
