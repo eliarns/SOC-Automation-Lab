@@ -33,3 +33,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20dashboard%20screenshot.png?raw=true)
 *Ref 3:Wazuh successfully installated with a fully operational security events dashboard, actively monitoring and analyzing alerts* 
+
+![Image alt](
