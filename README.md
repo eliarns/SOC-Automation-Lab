@@ -31,4 +31,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/sysmon%20installed%20screenshot.png?raw=true)
 *Ref 2: Sysmon successfully installed and running as a service, with its executables and configuration files in place*
 
-![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20dashboard%20screenshot.png?raw=true)
+*Ref 3:Wazuh successfully installated with a fully operational security events dashboard, actively monitoring and analyzing alerts* 
