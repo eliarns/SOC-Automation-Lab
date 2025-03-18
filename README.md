@@ -65,3 +65,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 *Ref 13: Shuffle successfully extracted the Mimikatz hash using regex. The workflow applied the regex pattern SHA256=([A-Fa-f0-9]{64}) to the input data and correctly captured the SHA256 hash, as shown in the output*
 
 ![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/virustotal%20success.png?raw=true)
+*Ref 14: VirusTotal enriched the detected hash, identifying it as Mimikatz with 65/73 detections. This was confirmed in Shuffle’s VirusTotal response implemented within my created workflow and on VirusTotal’s website*
