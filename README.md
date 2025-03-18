@@ -40,4 +40,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/thehive%20config%20services%20screensht.png?raw=true)
 *Ref 5: TheHive is successfully installed and running on DigitalOcean since Mar 15th 2025 @ 16:01 UTC, with Elasticsearch and Cassandra services also active*
 
-![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/wazuh%20configs%20screenshot.png?raw=true)
+*Ref 6: Wazuh is successfully running on DigitalOcean since March 17 at 21:56 UTC, with wazuh-manager.service active and essential components like wazuh-db, wazuh-analysisd, wazuh-remoted, wazuh-logcollector, and wazuh-modulesd initialized.*
