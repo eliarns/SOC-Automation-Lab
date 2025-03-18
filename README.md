@@ -27,3 +27,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ## Steps
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/9185de0c50ddae393dfe57ca85fe24b19b09d496/HOME%20LAB%20DIAGRAM.jpg)
 *Ref 1: Automation Diagram*
+
+![Image alt]
