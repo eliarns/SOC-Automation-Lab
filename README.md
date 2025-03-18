@@ -25,10 +25,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 - API Integration – Connecting Wazuh, TheHive, and threat intelligence sources for automation
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/9185de0c50ddae393dfe57ca85fe24b19b09d496/HOME%20LAB%20DIAGRAM.jpg)
+*Ref 1: Automation Diagram*
