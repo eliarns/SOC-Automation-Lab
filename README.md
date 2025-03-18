@@ -61,4 +61,7 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/shuffle%20wazuh%20integration%20.png?raw=true)
 *Ref 12: Wazuh is successfully integrated with Shuffle. The Wazuh config (right) sends alerts via webhook, and Shuffle (left) displays a detected Mimikatz usage alert, verifying proper event forwarding*
 
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/parsed%20hash.png?raw=true)
+*Ref 13: Shuffle successfully extracted the Mimikatz hash using regex. The workflow applied the regex pattern SHA256=([A-Fa-f0-9]{64}) to the input data and correctly captured the SHA256 hash, as shown in the output*
+
 ![Image alt](
