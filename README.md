@@ -48,3 +48,5 @@ I built this SOC Automation Lab to develop and test automated security workflows
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/sysmon%20events%20within%20wazuh%20.png?raw=true)
 *Ref 8: Shows Sysmon events are successfully populating in Wazuh, showing logs from agent "Elijah" with alerts for process injection and potential malware execution. The rule IDs, severity levels, and timestamps indicate active monitoring, verifying that Wazuh is detecting and processing Sysmon logs effectively*
+
+![Image alt](
