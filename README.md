@@ -76,6 +76,9 @@ I built this SOC Automation Lab to develop and test automated security workflows
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/json%20troubleshoot.png?raw=true)
 *Ref 17: Manually configured JSON for TheHive to trigger Mimikatz alerts. Mapped execution variables, fixed sourceRef and date format errors, and ensured MITRE ATT&CK tagging. Verified output for seamless Wazuh integration*
 
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/thehive%20first%20alert.png?raw=true)
+*Ref 18: TheHive's UI displays the "Mimikatz Usage Detected" alert, proving that Shuffle successfully triggered and created the alert in TheHive*
+
 ![Image alt](
 
 
