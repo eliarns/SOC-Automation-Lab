@@ -74,11 +74,18 @@ I built this SOC Automation Lab to develop and test automated security workflows
 *Ref 16: I integrated TheHive into the workflow to generate alerts from Wazuh detections, enhancing threat intelligence and incident response*  
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/json%20troubleshoot.png?raw=true)
-*Ref 17: Manually configured JSON for TheHive to trigger Mimikatz alerts. Mapped execution variables, fixed sourceRef and date format errors, and ensured MITRE ATT&CK tagging. Verified output for seamless Wazuh integration*
+*Ref 17: The original JSON was not working I troubleshooted by Manually configuring JSON for TheHive to trigger Mimikatz alerts. I Mapped execution variables, fixed sourceRef and date format errors, and ensured MITRE ATT&CK tagging. Verified output for seamless Wazuh integration*
 
 ![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/thehive%20first%20alert.png?raw=true)
 *Ref 18: TheHive's UI displays the "Mimikatz Usage Detected" alert, proving that Shuffle successfully triggered and created the alert in TheHive*
 
-![Image alt](
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/thehive%20first%20alert%20more%20details.png?raw=true)
+*Ref 19: More details about the alert received on TheHive alert dashboard showing the host, user, commandline, and date*
+
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/shuffle%20workflow%204.png?raw=true)
+*Ref 20: I integrated Email into the Shuffle workflow. After an alert is processed by VirusTotal, the workflow branches out to both TheHive and an Email action. This ensures that security alerts are not only logged in TheHive but also sent via Email for immediate notification*
+
+![Image alt](https://github.com/eliarns/SOC-Automation-Lab/blob/main/email%20showing%20mimikatz.png?raw=true)
+*Ref 21: This email confirms the successful completion of the SOC automation project by demonstrating that a Mimikatz detection alert was automatically processed and sent via Shuffle’s email integration. This proves that the workflow successfully detects threats, processes them, and notifies security teams in real time*
 
 
